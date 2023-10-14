@@ -1,0 +1,44 @@
+genre,genre_id
+Action,0
+Adventure,1
+Cars,2
+Comedy,3
+Dementia,4
+Demons,5
+Drama,6
+Ecchi,7
+Fantasy,8
+Game,9
+Harem,10
+Hentai,11
+Historical,12
+Horror,13
+Josei,14
+Kids,15
+Magic,16
+Martial Arts,17
+Mecha,18
+Military,19
+Music,20
+Mystery,21
+Parody,22
+Police,23
+Psychological,24
+Romance,25
+Samurai,26
+School,27
+Sci-Fi,28
+Seinen,29
+Shoujo,30
+Shoujo Ai,31
+Shounen,32
+Shounen Ai,33
+Slice of Life,34
+Space,35
+Sports,36
+Super Power,37
+Supernatural,38
+Thriller,39
+Vampire,40
+Yaoi,41
+Yuri,42
